@@ -228,8 +228,3 @@ Scatterplots show relationships between CPI, HDI, democracy index, and GDP per c
 
 ---
 
-## 🚀 How to Use
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Ruhma Baig/corruption-perception-dashboard.git
